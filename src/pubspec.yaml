@@ -1,10 +1,9 @@
-name: com.example.cat_dog_app
-description: A simple Flutter app that shows text 'Cat' and changes to 'Dog' when clicked, using the Cubit pattern for state management.
+name: cat_dog_app
+description: A simple Flutter app that shows text 'Eagle' and changes to 'Dog' when clicked, using the Cubit pattern for state management.
 version: 1.0.0
-
 environment:
   sdk: ">=2.12.0 <3.0.0"
-  flutter: ">=2.5.0"
+  flutter: ">=2.5.0 <3.0.0"
 
 dependencies:
   flutter:
